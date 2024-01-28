@@ -1,0 +1,936 @@
+Q3,Q5,hireability_HR_10,years_experience_H,prev_jobs_H,applicant_male,applicant_age,applicant_ethnicity,hireability_Software_10,years_experience_S,prev_jobs_S,Q226,Q227,Q228,male,male_10_TEXT,birth_year,race,educ,educ_8_TEXT,Q43,Q117,PROLIFIC_PID,Job,Cond,Name,Dates1,Dates2
+6,ice,72,12,3,0,34,7,,,,,,,0,,60,2,5,,No,38,1,HR,Female Treat,Sarah Brown,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,2,,,,,
+6,Ice,,,,,,,,,,,,,,,,,,,,,3,,,,,
+6,Ice,,,,,,,,,,,,,,,,,,,,,4.00E+00,,,,,
+6,ice,,,,,,,100,10,2,0,35,7,0,,74,2,5,,No,38,5.00E+00,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,71,11,2,0,35,7,1,,68,3,5,,No,33,6,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,7,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,8,,,,,
+6,ice,,,,,,,85,10,2,1,24,7,1,,76,2,6,,No,34,9,Software,Male Treat,James Smith,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,10,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,11,,,,,
+6,ice,100,10,2,1,34,7,,,,,,,0,,49,2,5,,No,41,1.20E+01,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,84,8,2,1,34,7,,,,,,,0,,77,2,5,,,42,1.30E+01,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,29,7,0,,67,2,8,higher education Level 5 diploma,,38,14,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,80,10,2,0,33,7,,,,,,,0,,61,2,6,,No.,34,15,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,60,9,2,1,31,7,1,,71,3,6,,No,42,16,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,6,2,0,28,7,,,,,,,0,,68,2,5,,No,43,17,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,6,2,0,32,7,0,,78,1,3,,No,38,18,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,19,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,2.00E+01,,,,,
+6,ice,,,,,,,100,5,2,1,26,7,1,,73,2,5,,,37,2.10E+01,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,71,5,5,1,35,7,,,,,,,0,,70,3,3,,No,38,22,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,6,3,0,33,7,1,,68,3,5,,No,38,23,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,8,2,0,30,7,,,,,,,1,,51,2,5,,No,37,24,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,12,2,0,34,7,,,,,,,0,,60,2,5,,,37,25,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,92,10,2,1,35,6,,,,,,,0,,66,3,5,,no,43,26,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,5,2,0,23,8,1,,58,2,5,,No,32,27,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,3,1,34,7,0,,75,2,5,,,38,2.80E+01,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,0,39,7,0,,69,2,5,,NO,37,2.90E+01,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,81,10,2,0,32,7,0,,37,2,6,,No,37,30,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,5,2,1,27,7,1,,61,2,6,,No,36,31,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,10,2,0,35,7,,,,,,,0,,75,2,5,,no,32,32,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,82,7,3,1,25,7,0,,77,2,3,,,40,33,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,60,10,2,1,30,7,1,,62,2,5,,No,42,34,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,35,,,,,
+6,ice,100,10,2,1,36,6,,,,,,,1,,38,2,2,,No,40,3.60E+01,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,73,6,2,0,25,4,1,,78,2,5,,,42,3.70E+01,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,80,7,2,1,30,7,0,,69,2,7,,No,37,38,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,83,10,2,1,35,7,,,,,,,0,,76,2,7,,No,38,39,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,10,1,1,42,7,,,,,,,1,,71,2,2,,No,32,40,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,41,,,,,
+6,ice,,,,,,,65,10,2,1,31,7,1,,48,2,7,,No,34,42,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,0,31,7,,,,,,,0,,65,2,3,,no,37,43,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,4.40E+01,,,,,
+6,Ice,,,,,,,,,,,,,,,,,,,,,4.50E+01,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,46,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,47,,,,,
+6,ice,100,8,2,0,33,7,,,,,,,0,,72,2,5,,No,43,48,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,49,,,,,
+6,ice,,,,,,,100,10,2,1,30,8,1,,64,2,2,,,31,50,Software,Male Treat,James Smith,6 years,4 years
+6,ice,92,10,2,1,30,7,,,,,,,1,,71,2,5,,No,42,51,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,1,34,7,1,,73,2,5,,No,32,5.20E+01,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,63,8,1,0,30,7,1,,54,2,3,,No,28,5.30E+01,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,71,7,2,1,28,7,,,,,,,0,,76,2,3,,no,32,54,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,55,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,56,,,,,
+6,ice,,,,,,,88,10,2,0,33,7,0,,73,2,7,,no,38,57,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,90,9,2,1,32,4,0,,78,2,3,,No,40,58,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,19,3,0,44,7,,,,,,,0,,75,2,5,,No,34,59,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,6.00E+01,,,,,
+6,ice,83,10,4,0,34,7,,,,,,,0,,73,5,6,,,37,6.10E+01,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,95,10,2,0,27,7,,,,,,,1,,66,2,3,,,32,62,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,32,7,0,,67,2,5,,,38,63,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,64,,,,,
+6,ice,,,,,,,100,10,2,1,34,7,0,,46,2,5,,No,37,65,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,8,2,1,30,7,1,,62,2,5,,,,66,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,6,2,1,32,5,,,,,,,1,,64,2,5,,No,32,67,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,8,2,1,32,7,,,,,,,1,,77,3,5,,No,44,6.80E+01,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,70,10,2,1,32,7,,,,,,,1,,65,2,5,,,36,6.90E+01,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,68,2,3,0,24,7,0,,59,2,3,,no,43,70,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,71,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,72,,,,,
+6,ice,91,10,2,0,30,7,,,,,,,1,,79,2,5,,I could not remember how many years experience she had.,33,73,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,71,10,2,1,35,7,1,,64,2,6,,No.,30,74,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,2,0,33,4,0,,80,2,3,,No,32,75,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,80,15,3,0,40,7,,,,,,,0,,73,2,5,,,42,7.60E+01,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,90,10,2,0,33,7,,,,,,,1,,69,2,5,,No.,42,7.70E+01,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,6,2,1,34,7,0,,75,2,5,,No.,40,78,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,80,7,2,0,30,7,0,,67,2,5,,No.,43,79,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,70,10,2,1,35,7,,,,,,,0,,74,2,6,,No,34,80,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,71,9,2,0,28,7,0,,65,2,7,,no,40,81,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,78,10,2,1,35,5,,,,,,,10,,75,2,4,,,37,82,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,6,2,0,30,7,,,,,,,0,,74,2,3,,No,43,83,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,97,5,3,1,35,7,,,,,,,0,,68,3,6,,No,34,8.40E+01,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,4,0,37,7,,,,,,,0,,65,2,6,,No,37,8.50E+01,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,100,15,4,1,36,6,,,,,,,0,,77,2,5,,No,38,86,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,70,3,1,1,27,7,1,,73,3,5,,No,32,87,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,35,4,3,0,28,7,1,,74,2,6,,No,40,88,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,99,5,2,0,30,7,,,,,,,0,,71,2,5,,No,41,89,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,84,8,2,1,28,7,0,,66,2,4,,,38,90,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,93,10,2,0,35,7,1,,49,2,5,,No,37,91,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,9.20E+01,,,,,
+6,ice,,,,,,,76,7,2,1,22,7,0,,81,2,4,,No,33,9.30E+01,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,95,4,1,1,24,7,,,,,,,0,,75,3,6,,No,37,94,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,79,5,1,1,35,6,,,,,,,1,,57,2,2,,No,31,95,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,85,9,3,0,45,7,0,,75,3,5,,No,34,96,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,72,10,2,0,31,7,,,,,,,0,,69,2,5,,No,43,97,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,82,8,2,1,35,7,,,,,,,0,,71,2,6,,No,37,98,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,99,,,,,
+6,ice,,,,,,,78,14,1,0,28,7,1,,60,2,5,, No,36,1.00E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,2,0,35,6,,,,,,,0,,67,2,7,,No,33,1.01E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,91,10,3,0,42,7,0,,75,2,6,,No,37,102,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,3,0,30,7,1,,75,2,3,,No,44,103,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,0,35,7,,,,,,,1,,51,2,6,,,37,104,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,2,0,30,8,,,,,,,0,,73,2,5,,No,41,105,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,3,1,35,8,0,,69,2,5,,"I didn't anticipate being asked something as specific as the number of years in employment. I checked briefly that he met that criteria, but was much more interested in whether or not he met the educational criteria and had the skills required for the post.",43,106,Software,Male Treat,James Smith,6 years,4 years
+6,ice,65,9,2,1,32,7,,,,,,,1,,67,2,5,,No.,32,107,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,9,3,0,34,7,,,,,,,1,,69,2,4,,No,40,1.08E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,82,4,2,1,28,7,0,,74,2,6,,no,37,1.09E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,2,0,28,7,1,,70,2,5,,No,34,110,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,89,10,2,1,32,7,0,,74,2,5,,,43,111,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,0,32,7,,,,,,,0,,73,2,5,,,39,112,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,80,10,2,0,30,7,1,,66,2,4,,no,32,113,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,75,5,2,0,29,6,0,,76,5,7,,no,37,114,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,33,7,,,,,,,1,,54,2,5,,No,34,115,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,0,32,7,0,,67,5,5,,No,39,1.16E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,10,2,0,40,6,,,,,,,0,,73,3,7,,No,37,1.17E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,71,9,2,1,35,7,,,,,,,0,,69,2,6,,,30,118,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,0,30,7,0,,66,3,5,,,41,119,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,120,,,,,
+6,ice,,,,,,,100,9,2,1,30,7,0,,62,2,4,,No,32,121,Software,Male Treat,James Smith,6 years,4 years
+6,ice,80,8,2,0,29,7,,,,,,,1,,72,2,4,,No.,36,122,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,123,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,1.24E+02,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,1.25E+02,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,126,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,127,,,,,
+6,ice,,,,,,,100,10,2,0,30,7,1,,66,2,6,,No,37,128,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,129,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,130,,,,,
+6,ice,80,10,2,0,34,7,,,,,,,1,,45,2,2,,,32,131,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,1.32E+02,,,,,
+6,ice,81,10,3,1,33,7,,,,,,,0,,56,2,6,,No,32,1.33E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,71,7,2,0,35,7,,,,,,,1,,74,2,5,,no,37,134,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,72,4,2,1,28,7,0,,57,2,2,,,40,135,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,95,10,2,0,36,7,1,,66,2,5,,No,32,136,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,5,2,0,25,7,0,,73,2,6,,No.,34,137,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,7,2,0,28,7,1,,69,2,3,,no,40,138,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,3,0,30,7,,,,,,,1,,50,2,5,,no,28,139,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,1.40E+02,,,,,
+6,ice,,,,,,,71,6,3,1,30,7,1,,66,3,6,,no,33,1.41E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,85,10,3,1,30,7,0,,72,2,6,,No,36,142,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,93,6,2,0,35,7,,,,,,,1,,74,2,3,,,40,143,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,92,10,2,0,25,7,,,,,,,1,,76,3,5,,no,42,144,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,82,5,3,0,30,7,1,,52,2,5,,No,32,145,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,7,4,0,35,7,,,,,,,1,,69,2,3,,no,30,146,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,147,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,1.48E+02,,,,,
+6,ice,75,20,4,1,45,7,,,,,,,1,,42,2,5,,No,37,1.49E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,91,6,2,1,28,7,0,,74,2,5,,no,33,150,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,71,5,2,1,30,7,,,,,,,0,,64,2,6,,,32,151,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,50,7,3,1,39,5,,,,,,,1,,66,2,5,,no,32,152,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,8,3,1,32,4,0,,72,2,5,,,40,153,Software,Male Treat,James Smith,6 years,4 years
+6,ice,60,4,2,0,27,6,,,,,,,1,,64,2,6,,No,40,154,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,6,3,1,33,7,1,,82,2,3,,no,34,155,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,79,5,3,1,24,7,1,,73,2,5,,No,42,1.56E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,93,8,2,1,30,7,1,,70,2,5,,,33,1.57E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,158,,,,,
+6,ice,,,,,,,90,8,2,0,30,8,1,,53,2,7,,no,37,159,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,67,8,2,1,33,7,,,,,,,0,,57,2,8,Postgraduate diploma,no,37,160,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,6,2,1,32,7,,,,,,,0,,69,2,3,,no,40,161,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,9,2,1,30,7,0,,58,2,5,,No,40,162,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,3,1,0,27,7,0,,72,2,7,,The only reason I wasnt sure about advancing her to the next stage was because her CV did not mention encryption experience,34,163,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,4,2,1,31,7,,,,,,,0,,73,2,999,,No.,40,1.64E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,6,2,1,30,7,,,,,,,1,,65,2,5,,no,34,1.65E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,94,15,3,0,29,8,0,,60,2,3,,no,43,166,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,6,2,0,31,7,,,,,,,0,,76,2,5,,,43,167,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,15,3,1,35,7,,,,,,,0,,79,2,5,,,40,168,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,169,,,,,
+6,ice,72,10,1,0,30,6,,,,,,,0,,75,5,6,,No,33,170,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,2,0,34,7,1,,57,2,6,,No.,39,171,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,1.72E+02,,,,,
+6,ice,100,5,2,1,26,7,,,,,,,0,,72,2,5,,,40,1.73E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,4,2,1,30,7,,,,,,,1,,82,2,3,,no,40,174,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,71,10,1,0,32,7,,,,,,,0,,50,1,4,,No,34,175,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,93,5,2,1,30,7,0,,55,2,5,,No,37,176,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,177,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,178,,,,,
+6,ice,100,12,3,0,32,7,,,,,,,0,,71,3,6,,No,34,179,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,81,2,2,0,25,8,1,,82,3,5,,No,45,1.80E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,2,0,35,7,0,,76,3,5,,No,30,1.81E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,85,10,2,1,34,5,,,,,,,1,,79,3,5,,No,32,182,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,73,10,2,1,33,7,10,Agender,75,2,5,,No.,42,183,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,0,30,6,0,,68,2,5,,No,37,184,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,95,10,2,0,28,7,,,,,,,1,,52,3,6,,No,28,185,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,1,40,6,0,,78,2,5,,No,43,186,Software,Male Treat,James Smith,6 years,4 years
+6,ice,98,10,2,0,36,7,,,,,,,0,,64,1,5,,,,187,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,1.88E+02,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,1.89E+02,,,,,
+6,ice,99,9,2,0,37,7,,,,,,,0,,72,2,5,,,33,190,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,9,3,0,34,7,,,,,,,0,,74,2,5,,No,38,191,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,69,6,6,0,27,7,,,,,,,1,,80,2,3,,no,40,192,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,193,,,,,
+6,Ice,,,,,,,,,,,,,,,,,,,,,194,,,,,
+6,ice,80,10,2,0,34,7,,,,,,,1,,69,2,4,,No,40,195,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,1.96E+02,,,,,
+6,ice,58,10,2,0,35,7,,,,,,,0,,69,2,6,,No,36,1.97E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,1,30,7,0,,74,2,4,,no,39,198,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,10,2,0,35,7,,,,,,,0,,56,2,3,,no,41,199,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,2,1,0,28,7,1,,61,3,6,,No,40,200,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,10,2,0,30,7,1,,65,2,3,,No,36,201,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,202,,,,,
+6,ice,92,10,2,1,37,7,,,,,,,1,,61,2,3,,No,40,203,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,1,31,4,0,,57,2,5,,No,40,2.04E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,77,10,3,0,32,7,,,,,,,1,,70,2,3,,Good survey ,33,2.05E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,206,,,,,
+6,ice,,,,,,,95,10,2,0,33,7,1,,72,2,5,,No,39,207,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,95,10,3,1,35,7,1,,43,2,2,,I took a guess at years of work experience i was more concerned with the persons abilities to do the job,39,208,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,63,11,2,1,37,7,1,,60,2,5,,no,34,209,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,0,30,7,,,,,,,0,,76,3,5,,No,37,210,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,86,10,2,1,30,5,,,,,,,0,,70,2,6,,"I don't think the attention check on total years of work experience was very fair, Prolific's terms say fair attention checks should refer to the current page, not previous ones, and the information did not stand out clearly.",40,211,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,95,11,3,1,32,7,0,,58,2,3,,No,43,2.12E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,91,10,2,1,40,7,,,,,,,1,,60,2,5,,No,38,2.13E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,8,2,0,30,7,,,,,,,0,,75,2,6,,No,38,214,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,215,,,,,
+6,ice,90,10,2,1,32,7,,,,,,,1,,56,2,7,,No,28,216,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,6,1,1,32,7,,,,,,,1,,67,2,5,,,34,217,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,85,8,2,0,30,7,1,,76,2,7,,No,33,218,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,219,,,,,
+6,ice,,,,,,,82,4,1,1,25,7,1,,34,2,3,,No,28,2.20E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,1,32,7,0,,68,1,5,,No,38,2.21E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,40,5,2,0,27,7,0,,76,2,6,,,37,222,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,2,0,30,7,,,,,,,1,,47,2,4,,No,34,223,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,224,,,,,
+6,ice,100,10,2,1,32,7,,,,,,,1,,54,2,4,,No.,40,225,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,8,1,0,28,7,0,,75,2,6,,No,34,226,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,72,10,3,1,30,8,0,,68,3,6,,no,43,227,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,35,7,,,,,,,0,,68,2,5,,No,37,2.28E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,2.29E+02,,,,,
+6,ice,91,10,2,1,35,6,,,,,,,0,,68,2,6,,No,37,230,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,231,,,,,
+6,ice,91,8,3,0,44,7,,,,,,,1,,69,2,6,,No,41,232,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,7,2,1,30,7,,,,,,,0,,70,2,5,,no,28,233,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,70,10,2,0,35,7,,,,,,,1,,79,2,3,,No.,30,234,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,235,,,,,
+6,ice,80,10,2,0,35,7,,,,,,,1,,64,2,3,,,36,2.36E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,80,2,1,1,24,4,1,,81,3,3,,No,42,2.37E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,238,,,,,
+6,ice,,,,,,,100,5,3,0,26,7,0,,62,3,8,3 year degree,,34,239,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,6,2,1,27,7,1,,62,2,2,,No,40,240,Software,Male Treat,James Smith,6 years,4 years
+6,ice,91,10,2,1,35,7,,,,,,,0,,71,2,5,,No,39,241,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,4,2,1,35,7,0,,79,2,2,,No,43,242,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,95,5,2,0,26,7,1,,68,2,5,,No,28,243,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,82,8,2,0,30,7,0,,57,3,7,,no,34,2.44E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,51,3,3,0,30,7,0,,74,2,5,,no,34,2.45E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,88,10,2,0,33,7,1,,60,2,7,,no,42,246,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,90,4,2,1,23,7,1,,68,2,6,,,37,247,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,75,7,2,0,29,7,,,,,,,1,,69,2,6,,No,42,248,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,5,0,1,29,7,,,,,,,0,,57,2,5,,No,39,249,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,61,5,1,1,28,7,0,,49,2,3,,No,36,250,Software,Male Treat,James Smith,6 years,4 years
+6,ice,87,7,2,1,32,7,,,,,,,0,,73,2,5,,No,31,251,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,70,10,3,1,32,8,1,,69,2,7,,No,37,2.52E+02,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,2.53E+02,,,,,
+6,ice,,,,,,,91,6,2,0,33,7,1,,63,2,6,,No,37,254,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,255,,,,,
+6,ice,,,,,,,80,6,1,0,26,7,1,,61,2,2,,No,36,256,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,91,8,2,0,28,7,,,,,,,0,,75,2,4,,no,37,257,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,48,10,2,1,34,7,1,,45,2,4,,,32,258,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,6,2,0,35,7,,,,,,,1,,69,2,6,,,37,259,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,70,10,2,0,33,7,1,,62,2,3,,No,28,2.60E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,90,5,2,1,28,7,1,,70,2,5,,No,34,2.61E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,9,2,1,35,5,,,,,,,1,,59,2,3,,no,30,262,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,7,4,1,27,7,,,,,,,0,,69,2,3,,no,37,263,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,264,,,,,
+6,ice,69,4,2,0,24,7,,,,,,,1,,53,2,2,,no,32,265,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,92,10,2,0,33,7,,,,,,,1,,47,2,5,,No,36,266,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,87,7,4,0,27,7,1,,74,2,5,,,32,267,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,95,9,2,0,30,7,,,,,,,0,,73,5,5,,no,39,2.68E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,2.69E+02,,,,,
+6,ice,76,6,3,1,30,4,,,,,,,1,,81,3,6,,no,33,270,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,9,2,1,30,7,1,,54,2,5,,No,37,271,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,29,9,2,1,31,7,0,,66,2,5,,No.,32,272,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,273,,,,,
+6,ice,,,,,,,72,10,2,1,35,7,0,,81,2,5,,,38,274,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,80,4,2,0,29,7,1,,64,2,5,,No,39,275,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,51,7,2,1,30,7,,,,,,,0,,48,2,5,,No,40,2.76E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,61,10,2,0,35,7,,,,,,,0,,71,2,6,,no,37,2.77E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,80,9,2,0,32,7,1,,67,2,6,,No.,42,278,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,279,,,,,
+6,ice,95,0,2,1,30,7,,,,,,,1,,43,2,7,,No,34,280,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,70,5,2,1,28,7,0,,66,2,7,,,34,281,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,4,1,0,27,7,,,,,,,1,,78,2,4,,No.,33,282,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,8,4,1,31,7,,,,,,,0,,63,3,6,,No,39,283,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,79,9,3,0,29,7,,,,,,,0,,68,2,6,,No,36,2.84E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,81,8,2,1,31,7,1,,46,2,5,,no,34,2.85E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,10,2,0,33,7,,,,,,,1,,71,2,2,,no,40,286,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,287,,,,,
+6,ice,,,,,,,90,10,2,1,33,7,1,,70,2,5,,No,42,288,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,8,2,0,27,7,1,,61,2,5,,"I think the level of detail you expect to remember is a bit tough honestly, there was a huge amount of text and you could have asked about absolutely anything ",33,289,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,94,10,2,1,36,7,0,,73,2,5,,,43,290,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,1,32,7,0,,78,2,5,,,32,291,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,4,2,1,31,7,,,,,,,1,,56,2,3,,No,33,2.92E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,7,2,0,30,7,1,,65,3,5,,No,37,2.93E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,2,0,35,6,0,,60,2,5,,No.,38,294,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,9,2,1,33,7,0,,74,2,5,,no,33,295,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,61,8,2,0,30,7,,,,,,,0,,74,2,5,,No,34,296,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,93,10,2,0,35,7,,,,,,,1,,74,2,3,,,38,297,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,298,,,,,
+6,ice,100,8,2,1,34,7,,,,,,,0,,69,2,6,,No.,36,299,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,45,9,2,0,32,7,0,,80,2,4,,No,43,3.00E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,3,0,40,7,,,,,,,1,,54,2,7,,,34,3.01E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,91,8,2,1,30,7,,,,,,,1,,77,2,7,,No,34,302,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,73,6,4,0,40,7,0,,72,2,6,,no,37,303,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,304,,,,,
+6,ice,,,,,,,95,10,2,1,34,7,1,,79,2,2,,No.,40,305,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,1,35,7,,,,,,,0,,53,2,5,,No,38,306,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,92,11,3,0,30,7,0,,62,2,4,,no,38,307,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,90,7,2,0,30,7,0,,72,2,5,,stated my response was outdated and refreshed page,40,3.08E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,88,8,4,0,32,7,,,,,,,0,,78,2,4,,No,43,3.09E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,6,2,1,30,7,,,,,,,0,,57,2,5,,"I studied the CV and noticed he had 2 previous jobs with the NHS and Experian but I over looked how many years they had worked. I was impressed that they were promoted from HR adviser to HR manager. I apologise and as rejected surveys mess up your prolific account, I will return it, but please feel free to use my information. ",32,310,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,99,11,3,0,36,7,0,,64,2,4,,No,28,311,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,10,2,1,35,7,,,,,,,1,,78,3,3,,No,32,312,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,313,,,,,
+6,ice,,,,,,,70,9,2,1,35,7,1,,82,2,2,,,37,314,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,1,31,7,,,,,,,0,,74,2,5,,No,43,315,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,2,0,32,7,1,,43,2,2,,No,31,3.16E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,10,2,0,40,7,,,,,,,0,,77,2,5,,no,32,3.17E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,4,0,0,22,7,0,,50,2,2,,No,37,318,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,70,8,2,1,31,8,0,,66,2,5,,,37,319,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,91,9,2,1,36,7,1,,52,2,2,,No,40,320,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,78,10,2,1,36,6,1,,76,2,5,,No.,30,321,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,0,31,7,0,,52,2,5,,It was not possible to know the ethnic identity of the clien or even to guess it,37,322,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,11,2,0,40,7,,,,,,,0,,51,2,6,,No,40,323,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,91,7,3,0,36,7,0,,61,1,6,,No,33,3.24E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,87,10,2,0,31,7,,,,,,,1,,64,2,6,,No,36,3.25E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,2,1,35,7,,,,,,,0,,51,2,2,,No,37,326,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,81,10,2,0,34,7,,,,,,,1,,64,2,3,,No,40,327,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,62,10,2,1,25,7,,,,,,,0,,52,2,5,,no,40,328,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,6,2,0,30,7,,,,,,,0,,75,2,3,,No,40,329,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,99,10,2,1,35,7,0,,61,2,3,,,40,330,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,76,9,2,0,32,7,1,,67,2,2,,No,43,331,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,1,32,7,0,,72,2,5,,No,42,3.32E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,1,33,7,,,,,,,1,,52,2,3,,no,44,3.33E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,4,2,0,26,7,,,,,,,0,,75,2,5,,No.,37,334,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,2,0,37,7,,,,,,,0,,68,2,6,,no,40,335,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,76,10,2,0,33,7,0,,40,2,5,,No,39,336,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,92,10,2,0,35,7,1,,69,2,6,,,36,337,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,338,,,,,
+6,ice,,,,,,,90,10,1,0,40,7,1,,71,2,7,,No,34,339,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,3.40E+02,,,,,
+6,ice,,,,,,,90,10,2,1,30,7,0,,60,2,5,,,40,3.41E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,90,7,2,1,33,7,,,,,,,0,,72,2,5,,,43,342,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,83,10,2,1,29,7,,,,,,,0,,62,2,5,,,38,343,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,5,6,1,35,7,1,,72,2,4,,No,37,344,Software,Male Treat,James Smith,6 years,4 years
+6,ice,75,10,2,1,45,7,,,,,,,1,,61,2,5,,No,44,345,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,10,2,1,35,6,,,,,,,1,,61,2,5,,,42,346,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,11,2,1,35,7,0,,69,2,3,,No,38,347,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,2,1,36,7,0,,63,2,5,,no,36,3.48E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,35,7,1,,47,2,7,,No,37,3.49E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,77,5,2,0,31,7,,,,,,,0,,75,2,5,,no,37,350,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,15,2,1,45,7,,,,,,,1,,47,2,5,,No,39,351,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,30,7,10,,76,2,6,,No.,43,352,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,73,7,2,0,30,7,,,,,,,0,,77,2,6,,No,33,353,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,76,4,3,1,35,7,,,,,,,0,,78,2,6,,,43,354,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,8,2,0,35,7,,,,,,,1,,57,2,5,,,34,355,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,83,10,2,1,32,7,0,,73,2,5,,No.,31,3.56E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,1,30,7,,,,,,,1,,74,2,5,,No,33,3.57E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,92,8,3,1,35,7,,,,,,,0,,48,2,5,,No,37,358,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,80,5,2,1,30,7,,,,,,,1,,62,2,5,,No,41,359,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,360,,,,,
+6,ice,90,10,2,1,34,7,,,,,,,0,,76,2,5,,No.,37,361,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,10,2,0,34,7,,,,,,,1,,53,2,4,,No,40,362,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,9,2,1,30,7,1,,72,2,6,,no,40,363,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,34,8,,,,,,,1,,78,2,2,,no,28,3.64E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,6,3,0,25,7,1,,54,2,6,,No,38,3.65E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,82,10,2,0,35,7,0,,72,1,5,,No,34,366,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,96,9,2,1,32,7,1,,69,2,5,,No,42,367,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,6,2,0,30,6,,,,,,,0,,73,2,3,,no,43,368,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,12,2,0,33,7,,,,,,,1,,62,2,5,,No,28,369,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,99,10,2,1,35,7,,,,,,,0,,74,2,6,,No.,34,370,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,10,3,1,35,7,0,,64,2,5,,No,36,371,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,6,1,0,30,8,,,,,,,0,,64,2,4,,,33,3.72E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,70,10,2,1,35,7,,,,,,,0,,68,2,2,,No,40,3.73E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,72,9,2,1,35,7,1,,52,3,5,,No,34,374,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,9,2,0,32,7,0,,60,2,5,,No,39,375,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,9,2,0,35,7,1,,69,2,6,,,36,376,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,60,10,2,1,30,6,0,,80,2,5,,No,40,377,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,0,35,7,0,,56,2,7,,No.,34,378,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,59,9,2,0,30,7,0,,72,2,5,,No,34,379,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,1,1,32,7,,,,,,,1,,40,2,5,,N0,34,3.80E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,71,10,2,1,32,7,1,,59,3,6,,no,42,3.81E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,95,10,2,0,31,7,,,,,,,0,,73,2,5,,No,43,382,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,99,5,3,0,27,4,,,,,,,0,,72,3,3,,No,40,383,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,384,,,,,
+6,ice,,,,,,,85,10,2,0,32,7,1,,37,2,3,,No,32,385,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,85,10,2,1,34,7,0,,62,2,3,,,41,386,Software,Male Treat,James Smith,6 years,4 years
+6,ice,82,10,2,0,34,8,,,,,,,0,,58,2,5,,No,33,387,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,90,10,2,1,33,7,0,,59,2,5,,No,39,3.88E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,90,10,2,0,31,7,0,,64,3,5,,No,37,3.89E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,12,3,0,38,7,1,,62,2,5,,No,36,390,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,95,10,2,1,32,7,,,,,,,1,,62,1,5,,"The weird thing about the study is that, the study wants us to guess the ethnicity and gender from the name, age from the uncompleted information on the cv.",33,391,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,2,0,38,7,,,,,,,1,,81,2,3,,No,38,392,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,0,32,8,0,,72,2,5,,No.,39,393,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,64,5,4,1,27,7,1,,70,2,3,,no,45,394,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,94,9,2,1,33,7,,,,,,,0,,77,2,5,,No.,43,395,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,70,7,3,1,35,7,,,,,,,0,,74,2,6,,no,38,3.96E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,98,11,4,0,36,4,,,,,,,1,,68,2,5,,No,40,3.97E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,91,9,2,0,27,7,0,,65,2,3,,no,40,398,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,92,10,2,0,31,7,,,,,,,0,,62,2,4,,No,38,399,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,10,2,0,30,7,,,,,,,1,,50,2,4,,No,28,400,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,71,8,1,1,37,7,,,,,,,0,,72,1,5,,No,43,401,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,10,2,0,47,7,,,,,,,0,,74,2,6,,"I did not agree with the ethnicity and age box. I did not feel like I am able to guess the age, I would prefer to select age bracket instead. With the ethnicity, I had no presumtion about what ethnicity this person could be, it could be any! I have selected white because it felt like you want me to do that.  I would prefer an option of 'I can't say' as even the option 'other' presumes that the ethnicity is other than stated.",34,402,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,403,,,,,
+6,ice,92,7,2,1,37,7,,,,,,,1,,53,1,5,,no,45,4.04E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,3,2,0,25,7,1,,75,2,6,,no,37,4.05E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,95,10,2,0,34,7,,,,,,,1,,69,2,4,,No,30,406,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,45,7,1,,72,2,5,,,37,407,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,408,,,,,
+6,ice,100,10,2,99,40,7,,,,,,,1,,76,2,6,,No.,37,409,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,95,9,2,1,32,7,,,,,,,1,,71,1,4,,,41,410,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,74,10,2,1,34,7,,,,,,,1,,68,2,5,,Gender options limited. eg. no N/A.,30,411,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,95,7,2,0,33,7,,,,,,,0,,80,2,3,,No,33,4.12E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,0,34,7,,,,,,,1,,63,2,3,,No,36,4.13E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,7,2,0,32,7,,,,,,,0,,77,2,5,,No,37,414,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,4,2,1,31,7,1,,76,1,6,,no,45,415,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,416,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,417,,,,,
+6,ice,94,10,2,1,23,4,,,,,,,0,,7,1,6,,,37,418,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,419,,,,,
+6,ice,,,,,,,90,10,2,0,27,7,1,,76,3,6,,no,37,4.20E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,8,2,1,35,4,0,,74,2,3,,No,34,4.21E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,71,5,2,1,29,7,0,,46,2,5,,no,36,422,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,70,10,2,0,35,7,0,,64,2,2,,No,37,423,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,424,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,425,,,,,
+6,ice,,,,,,,77,5,3,0,34,7,0,,59,2,7,,no,40,426,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,88,10,2,1,30,7,,,,,,,1,,71,2,6,,no,34,427,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,4.28E+02,,,,,
+6,Ice,,,,,,,,,,,,,,,,,,,,,4.29E+02,,,,,
+6,ice,,,,,,,54,15,3,0,38,7,0,,66,2,3,,No,40,430,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,20,2,1,42,7,,,,,,,1,,60,2,3,,,40,431,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,10,2,1,33,6,,,,,,,0,,73,2,5,,no,32,432,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,93,15,5,0,35,7,,,,,,,0,,69,2,3,,no,40,433,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,100,11,2,0,38,7,,,,,,,0,,76,2,5,,No,37,434,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,435,,,,,
+6,ice,95,6,1,1,28,6,,,,,,,1,,66,2,7,,No,38,4.36E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,90,10,2,1,35,7,,,,,,,0,,74,2,6,,No,36,4.37E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,80,10,2,0,31,7,,,,,,,1,,77,3,5,,No,45,438,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,1,31,7,1,,68,2,2,,No,40,439,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,6,2,1,30,7,0,,68,2,5,,,30,440,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,8,2,1,28,7,0,,77,2,6,,No,43,441,Software,Male Treat,James Smith,6 years,4 years
+6,ice,71,4,2,1,31,7,,,,,,,1,,53,2,5,,No,39,442,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,9,2,0,36,7,,,,,,,0,,52,2,5,,No,37,443,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,5,2,0,30,7,,,,,,,0,,64,2,5,,no,37,4.44E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,85,8,2,0,30,7,0,,79,2,3,,No,42,4.45E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,8,2,1,45,7,,,,,,,1,,49,2,2,,No,28,446,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,3,0,36,7,,,,,,,0,,64,2,2,,No,43,447,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,75,5,2,1,29,7,1,,56,2,5,,,36,448,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,8,3,0,32,7,0,,74,2,6,,No,37,449,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,93,10,2,1,40,7,,,,,,,0,,43,2,5,,No,37,450,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,451,,,,,
+6,ice,,,,,,,76,10,2,0,32,7,0,,77,2,6,,No,38,4.52E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,85,5,2,0,30,7,,,,,,,1,,77,3,5,,No,40,4.53E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,60,10,3,0,40,7,1,,62,2,6,,No,37,454,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,92,10,2,0,33,7,0,,74,2,5,,No.,32,455,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,0,35,7,0,,72,2,5,,No,43,456,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,76,10,2,1,42,8,0,,58,8,7,,no,37,457,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,12,3,0,34,7,,,,,,,1,,58,2,6,,,34,458,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,40,8,2,0,30,7,0,,65,5,5,,,34,459,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,95,10,2,0,35,7,,,,,,,1,,64,2,3,,No,40,4.60E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,81,7,3,0,34,7,,,,,,,0,,49,2,7,,No,37,4.61E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,462,,,,,
+6,ice,82,3,9,0,30,7,,,,,,,1,,63,2,2,,No,38,463,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,1,34,7,0,,55,2,5,,No,43,464,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,33,7,0,,68,2,7,,,36,465,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,73,5,2,0,28,7,1,,64,2,6,,,36,466,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,92,10,2,1,34,7,,,,,,,1,,39,2,2,,No,40,467,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,79,7,2,0,32,7,0,,68,2,3,,No,40,4.68E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,71,10,4,0,31,7,1,,67,2,4,,no,32,4.69E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,99,11,1,1,38,7,1,,71,2,5,,No,41,470,Software,Male Treat,James Smith,6 years,4 years
+6,ice,77,8,3,0,30,7,,,,,,,0,,71,2,5,,No,33,471,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,89,10,4,1,28,7,,,,,,,1,,60,2,5,,,40,472,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,92,8,3,0,29,7,0,,71,2,6,,No,31,473,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,30,7,1,,68,2,6,,No,33,474,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,70,10,2,1,32,7,1,,68,9,5,,No,45,475,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,53,6,2,0,31,7,,,,,,,1,,49,1,5,,No,31,4.76E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,93,9,1,0,32,8,,,,,,,0,,51,2,4,,,42,4.77E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,478,,,,,
+6,ice,,,,,,,100,10,2,1,34,7,1,,66,5,2,,No.,38,479,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,0,33,7,0,,69,2,6,,No,34,480,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,81,10,2,0,29,6,0,,67,5,3,,No,32,481,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,50,8,2,1,28,7,1,,61,2,7,,No,34,482,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,40,7,,,,,,,1,,65,2,2,,No,40,483,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,98,5,2,0,26,7,,,,,,,0,,71,2,2,,No,40,4.84E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,50,2,2,0,26,7,0,,67,1,5,,NO,43,4.85E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,72,3,2,1,22,7,1,,69,3,6,,,43,486,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,14,3,0,44,6,,,,,,,0,,58,2,5,,No,38,487,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,91,4,2,0,24,7,,,,,,,0,,59,2,5,,No,36,488,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,1,31,7,0,,55,2,4,,,28,489,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,97,10,2,1,31,7,0,,63,2,5,,,37,490,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,0,33,7,0,,51,2,7,,No,37,491,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,85,7,2,0,30,7,0,,73,2,4,,No.,32,4.92E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,6,2,0,30,7,,,,,,,1,,63,2,3,,No,40,4.93E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,81,10,2,0,31,7,,,,,,,1,,50,2,3,,No,28,494,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,65,5,3,1,26,8,0,,76,5,6,,"Didn't really like having to think about what their race may be, does it really matter?",38,495,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,60,5,2,1,31,8,,,,,,,1,,74,2,5,,No,33,496,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,88,10,2,1,30,7,1,,71,2,4,,No,45,497,Software,Male Treat,James Smith,6 years,4 years
+6,ice,81,8,3,1,35,7,,,,,,,0,,66,2,5,,No,38,498,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,99,10,2,1,28,7,,,,,,,0,,50,3,3,,no,40,499,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,5.00E+02,,,,,
+6,ice,83,6,1,1,30,4,,,,,,,1,,71,2,3,,no,32,5.01E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,85,6,3,1,36,7,,,,,,,1,,48,2,5,,no,28,502,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,61,10,2,1,32,7,,,,,,,1,,64,2,3,,No,33,503,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,80,10,2,1,35,6,,,,,,,1,,72,1,5,,No,38,504,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,6,2,0,35,7,,,,,,,0,,70,3,6,,No,40,505,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,62,5,2,1,31,6,1,,73,2,6,,no,39,506,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,507,,,,,
+6,ice,60,10,2,0,32,5,,,,,,,0,,65,2,7,,No,34,5.08E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,4,2,1,32,7,,,,,,,1,,76,3,5,,no,33,5.09E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,34,5,,,,,,,0,,68,2,6,,No,37,510,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,85,10,2,0,40,7,,,,,,,0,,60,2,6,,No,34,511,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,1,35,7,0,,73,2,5,,No,38,512,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,513,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,514,,,,,
+6,ice,88,8,2,1,32,7,,,,,,,0,,70,2,3,,No,36,515,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,92,10,2,1,31,7,,,,,,,1,,72,2,5,,,43,5.16E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,5,2,0,27,7,1,,65,2,6,,No,32,5.17E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,2,1,34,7,0,,78,1,5,,No,34,518,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,86,9,2,1,31,7,1,,74,3,6,,No,33,519,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,87,10,2,0,40,7,,,,,,,0,,76,2,5,,No,29,520,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,49,10,2,1,32,7,,,,,,,0,,51,2,5,,why only one applicant,37,521,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,6,2,1,35,7,0,,71,2,5,,No,38,522,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,9,2,0,32,7,0,,75,2,5,,No,43,523,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,12,1,0,35,7,,,,,,,0,,67,2,5,,No,37,5.24E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,100,8,2,0,28,7,,,,,,,1,,51,2,2,,No,40,5.25E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,67,6,2,1,30,8,,,,,,,1,,54,9,6,,No,33,526,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,0,30,6,1,,50,2,3,,No,32,527,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,5,2,0,28,4,1,,61,2,6,,,39,528,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,0,35,7,0,,46,2,5,,,37,529,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,5,2,1,25,8,1,,70,2,3,,"I didn't look at the years experience or number of jobs so they are guesses, he had the basic degree needed, that's what I would hire based on",45,530,Software,Male Treat,James Smith,6 years,4 years
+6,ice,61,10,2,0,29,7,,,,,,,1,,71,2,6,,No.,30,531,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,88,10,2,0,30,7,1,,70,2,5,,,33,5.32E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,50,11,2,0,30,5,,,,,,,1,,37,2,6,,no,38,5.33E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,85,10,2,1,38,5,,,,,,,1,,70,2,5,,No,30,534,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,52,10,2,1,32,7,1,,60,2,5,,No,37,535,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,81,12,3,1,35,7,0,,63,2,5,,no,37,536,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,75,10,2,1,35,8,1,,49,2,5,,No,36,537,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,2,1,34,8,,,,,,,1,,66,2,7,,No,34,538,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,539,,,,,
+6,ice,100,10,3,0,40,7,,,,,,,0,,52,2,7,,"I know I didn't answer the questions correctly on the last page. I concentrated on the points needed, not these additional facts",33,5.40E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,5.41E+02,,,,,
+6,ice,91,7,2,1,29,7,,,,,,,1,,69,2,5,,No,34,542,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,80,10,2,0,36,7,,,,,,,1,,65,2,3,,,34,543,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,81,10,2,0,36,7,1,,53,2,2,,NO,30,544,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,92,10,2,0,35,7,1,,77,5,5,,No,34,545,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,92,10,2,0,33,7,,,,,,,0,,71,3,5,,No,40,546,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,91,7,2,0,30,7,1,,78,2,5,,No.,42,547,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,70,6,3,1,28,7,1,,73,2,6,,No,32,5.48E+02,Software,Male Treat,James Smith,6 years,4 years
+3,,,,,,,,,,,,,,,,,,,,,,5.49E+02,,,,,
+6,ice,,,,,,,100,9,2,0,31,7,0,,53,2,6,,No,38,550,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,551,,,,,
+6,ice,,,,,,,64,5,2,1,31,7,0,,78,2,5,,No,33,552,Software,Male Treat,James Smith,6 years,4 years
+6,ice,88,12,2,0,34,7,,,,,,,1,,40,2,5,,no,33,553,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+2,,,,,,,,,,,,,,,,,,,,,,554,,,,,
+6,ice,91,10,2,1,35,7,,,,,,,1,,51,2,1,,No,31,555,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,12,2,0,30,7,1,,44,2,2,,No,36,5.56E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,93,10,2,1,35,7,1,,45,2,5,,,38,5.57E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,74,10,1,1,34,7,,,,,,,1,,39,2,4,,No,34,558,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,4,2,1,23,5,1,,55,2,6,,,42,559,Software,Male Treat,James Smith,6 years,4 years
+6,ice,92,10,2,0,35,7,,,,,,,0,,76,2,6,,No,38,560,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,561,,,,,
+6,ice,,,,,,,95,9,2,0,28,7,0,,75,2,6,,,37,562,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,2,1,27,7,1,,69,2,3,,No,31,563,Software,Male Treat,James Smith,6 years,4 years
+6,ice,70,21,5,0,39,7,,,,,,,0,,62,2,2,,no,28,5.64E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,31,7,0,,70,2,5,,The questions were a bit ambiguous so I would like to explain my answers. 2 previous jobs (capital one and lockwood publishing) and 10 years work experience from 2011-present. ,37,5.65E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,60,8,2,0,29,7,,,,,,,0,,60,3,6,,No,40,566,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,3,2,0,36,7,0,,68,1,7,,No,37,567,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,1,31,7,0,,74,2,7,,,34,568,Software,Male Treat,James Smith,6 years,4 years
+6,ice,90,10,2,1,40,8,,,,,,,1,,73,2,2,,No,31,569,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,80,10,2,1,45,5,,,,,,,0,,73,5,3,,No,43,570,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,32,7,,,,,,,0,,76,2,6,,No,34,571,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,90,30,2,1,55,7,,,,,,,1,,47,2,6,,no,34,5.72E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,5,2,0,26,7,,,,,,,0,,63,2,7,,no,38,5.73E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,574,,,,,
+6,ice,,,,,,,62,10,2,0,33,4,0,,63,2,5,,No,37,575,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,576,,,,,
+6,ice,,,,,,,100,10,2,0,34,7,0,,60,2,5,,No,36,577,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,0,32,7,,,,,,,1,,42,3,6,,No,32,578,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,33,7,0,,68,2,5,,no,36,579,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,91,10,2,1,35,7,,,,,,,1,,47,2,3,,,33,5.80E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+5,,,,,,,,,,,,,,,,,,,,,,5.81E+02,,,,,
+6,ice,89,6,2,1,30,7,,,,,,,0,,68,2,5,,No,32,582,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,10,2,1,32,7,,,,,,,1,,41,2,5,,No,43,583,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,8,2,0,29,7,,,,,,,0,,45,2,5,,no,40,584,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,85,10,2,1,40,7,,,,,,,1,,67,2,5,,No,38,585,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,5,2,1,32,7,,,,,,,0,,77,2,7,,No,37,586,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,95,5,2,0,27,7,0,,82,5,2,,no,40,587,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+3,,,,,,,,,,,,,,,,,,,,,,5.88E+02,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,5.89E+02,,,,,
+6,ice,78,6,2,1,35,7,,,,,,,1,,67,1,6,,No,34,590,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,79,10,2,0,37,7,,,,,,,0,,38,2,4,,No,37,591,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,100,10,2,0,35,8,,,,,,,0,,69,9,5,,No,34,592,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,100,11,2,0,48,7,,,,,,,0,,74,2,3,,No,40,593,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,95,10,4,0,42,7,,,,,,,0,,77,2,5,,No,43,594,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,35,7,1,,66,2,6,,No.,41,595,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,81,10,2,1,34,7,,,,,,,1,,63,2,2,,No,32,5.96E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,75,10,2,1,32,7,1,,54,2,6,,No.,34,5.97E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,1,28,7,0,,74,2,2,,No,31,598,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,599,,,,,
+6,ice,,,,,,,61,10,3,1,29,6,0,,56,2,6,,No,37,600,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,0,40,7,,,,,,,0,,68,2,3,,No,43,601,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,71,10,2,1,34,7,0,,45,2,6,,No,37,602,Software,Male Treat,James Smith,6 years,4 years
+6,ice,65,10,2,1,33,7,,,,,,,1,,51,2,5,,No,34,603,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,92,10,2,1,35,7,,,,,,,1,,66,2,2,,No,43,6.04E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,77,10,2,0,32,7,,,,,,,0,,66,2,6,,No,37,6.05E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,85,10,2,1,32,7,1,,53,2,5,,"No, thank you. ",40,606,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,80,10,2,1,33,7,1,,64,2,5,,,32,607,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,608,,,,,
+6,ice,100,10,2,1,34,7,,,,,,,0,,73,2,6,,no,32,609,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,5,2,1,30,7,1,,69,2,6,,No.,38,610,Software,Male Treat,James Smith,6 years,4 years
+6,ice,87,10,2,0,33,5,,,,,,,0,,57,2,5,,no,32,611,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,6,2,0,32,7,1,,74,2,5,,No,33,6.12E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,6.13E+02,,,,,
+6,ice,,,,,,,100,6,2,1,28,7,1,,40,2,7,,No,37,614,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,6,2,1,35,7,,,,,,,0,,75,2,5,,no,28,615,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,616,,,,,
+6,ice,,,,,,,92,10,2,0,33,7,1,,67,2,3,,No,30,617,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,70,10,2,0,30,7,,,,,,,0,,78,2,5,,No,38,618,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,72,5,2,1,28,6,1,,70,2,5,,no,32,619,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,10,2,1,38,7,,,,,,,0,,77,2,5,,No,32,6.20E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,10,2,1,35,8,,,,,,,1,,60,9,999,,No,38,6.21E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,50,10,2,0,30,7,1,,55,2,6,,No,42,622,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,5,4,1,30,7,1,,61,2,3,,No,41,623,Software,Male Treat,James Smith,6 years,4 years
+6,ice,90,9,2,0,31,7,,,,,,,1,,58,3,5,,No,33,624,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,71,9,2,1,35,7,0,,48,2,4,,no,40,625,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,12,2,1,35,7,,,,,,,1,,76,2,5,,no,34,626,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,74,4,3,1,30,7,0,,73,2,5,,No,40,627,Software,Male Treat,James Smith,6 years,4 years
+6,ice,92,10,2,0,45,7,,,,,,,1,,81,3,4,,no,33,6.28E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,95,10,2,0,32,7,,,,,,,1,,65,2,5,,No,40,6.29E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,81,3,1,0,34,7,0,,73,2,5,,no,40,630,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,10,2,0,30,7,,,,,,,1,,61,2,5,,No,28,631,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,32,6,1,,62,2,5,,No,32,632,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,95,11,2,1,32,7,0,,66,2,5,,No,43,633,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,8,2,1,30,7,,,,,,,0,,79,5,5,,,41,634,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,9,2,1,30,7,,,,,,,0,,56,2,7,,No,34,635,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,81,10,2,0,30,7,1,,52,2,5,,No,31,6.36E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,81,10,2,0,44,7,,,,,,,1,,58,2,6,,No,33,6.37E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,82,7,2,0,31,7,0,,74,2,6,,No,37,638,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,639,,,,,
+6,ice,90,25,4,1,48,7,,,,,,,1,,50,2,2,,No,,640,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,1,32,7,0,,74,2,5,,,40,641,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,10,1,1,29,7,1,,33,2,5,,,39,642,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,32,7,0,,71,2,6,,,38,643,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,71,10,2,0,38,7,,,,,,,0,,72,1,5,,No,33,6.44E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,2,1,32,7,,,,,,,0,,77,2,5,,No,37,6.45E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,72,9,2,0,30,7,1,,70,5,3,,No,40,646,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,99,11,2,0,31,7,,,,,,,0,,48,2,5,,No,43,647,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,82,7,3,1,33,7,1,,67,8,6,,,31,648,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,15,4,1,35,7,,,,,,,1,,61,2,4,,No,28,649,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,32,7,,,,,,,1,,62,2,6,,non,40,650,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,79,10,2,0,38,7,1,,44,2,3,,no,44,651,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,77,10,2,1,32,7,0,,52,2,7,,"No, it was interesting thank you. ",37,6.52E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,77,5,3,0,26,7,0,,67,2,6,,Nothing suspicious - just interested that i was focused on the applicant's skills set that i overlooked how on they had been working and their age. My focus was on their relevant experience.,39,6.53E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,2,1,35,7,,,,,,,1,,72,2,3,,No.,34,654,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,92,10,2,0,33,7,,,,,,,1,,60,2,3,,no,43,655,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,92,10,3,0,35,7,0,,61,2,5,,No,37,656,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,77,10,2,0,32,7,0,,67,2,5,,No,37,657,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,85,10,2,0,35,7,,,,,,,1,,74,2,3,,no,44,658,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,67,10,2,0,35,7,,,,,,,0,,54,9,5,,,36,659,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,11,2,0,35,7,,,,,,,0,,79,2,5,,,38,6.60E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,93,10,2,0,35,7,,,,,,,0,,70,2,5,,No,36,6.61E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,55,10,2,1,34,7,,,,,,,1,,81,2,2,,no,40,662,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,0,28,7,0,,77,2,5,,,37,663,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,98,10,2,1,33,7,0,,64,1,7,,No,34,664,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,665,,,,,
+6,ice,75,10,2,0,30,7,,,,,,,0,,50,2,5,,No,38,666,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,667,,,,,
+6,ice,50,10,2,0,40,5,,,,,,,1,,64,3,2,,No,37,6.68E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,91,10,2,1,35,7,0,,69,2,5,,No,39,6.69E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,91,20,2,1,42,7,1,,54,2,5,,No,37,670,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,671,,,,,
+6,ice,80,5,1,1,26,7,,,,,,,1,,44,2,7,,,33,672,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,15,3,1,42,7,0,,53,2,3,,No,37,673,Software,Male Treat,James Smith,6 years,4 years
+6,ice,80,10,2,1,32,7,,,,,,,0,,75,2,5,,No,43,674,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,71,10,2,0,33,7,0,,63,2,5,,No,37,675,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,90,6,2,1,26,7,0,,79,2,8,NVQ level 3 ,,37,6.76E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,71,9,2,1,40,6,0,,62,2,6,,No,43,6.77E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,92,10,2,0,33,7,1,,61,2,5,,no,34,678,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,679,,,,,
+6,ice,,,,,,,100,10,2,0,32,7,1,,74,2,5,,No,32,680,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,10,2,1,31,7,,,,,,,1,,52,2,4,,No,38,681,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,95,10,2,1,32,7,1,,60,2,5,,No.,37,682,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,71,7,2,1,27,7,,,,,,,0,,66,1,5,,,36,683,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,5,2,1,33,7,,,,,,,1,,54,2,2,,No,43,6.84E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,9,2,1,35,7,0,,76,5,5,,,40,6.85E+02,Software,Male Treat,James Smith,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,686,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,687,,,,,
+6,ice,100,9,2,1,42,7,,,,,,,0,,63,2,5,,No,33,688,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,0,29,7,0,,44,2,5,,No,34,689,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,90,10,2,1,33,5,,,,,,,0,,40,2,6,,No,34,690,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,93,10,2,1,34,7,0,,67,2,5,,No,34,691,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,10,1,0,31,7,0,,65,3,3,,,38,6.92E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,75,42,42,0,33,8,,,,,,,1,,60,2,5,,,38,6.93E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,89,4,3,1,28,8,0,,57,9,7,,No,34,694,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,695,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,696,,,,,
+6,ice,,,,,,,88,10,2,1,29,7,1,,70,2,4,,no,32,697,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,95,10,2,0,31,7,1,,64,1,3,,No,43,698,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,60,5,2,1,26,7,,,,,,,0,,68,1,5,,no,38,699,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,97,10,2,0,34,7,,,,,,,0,,70,2,5,,,,7.00E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,85,5,3,1,32,7,,,,,,,0,,71,3,5,,No,40,7.01E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,66,10,2,0,33,7,,,,,,,0,,63,2,5,,No,40,702,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,4,2,0,28,8,10,,63,5,6,,,37,703,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,86,10,2,1,33,7,0,,42,2,5,,No,41,704,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,10,2,1,35,7,,,,,,,1,,70,2,3,,No,33,705,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,9,2,0,34,7,1,,56,2,3,,No,32,706,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,89,10,2,0,37,7,,,,,,,0,,73,2,5,,No,37,707,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,95,10,2,0,35,8,1,,69,2,6,,,37,7.08E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,90,7,2,1,35,7,,,,,,,0,,49,1,5,,no,38,7.09E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,710,,,,,
+6,ice,85,8,2,0,28,7,,,,,,,1,,63,2,6,,No,32,711,HR,Female Treat,Sarah Brown,6 years,4 years
+2,,,,,,,,,,,,,,,,,,,,,,712,,,,,
+6,ice,,,,,,,100,10,2,1,35,7,1,,72,2,3,,,28,713,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,714,,,,,
+6,ice,,,,,,,82,5,3,1,27,7,1,,58,2,5,,No,40,715,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,7.16E+02,,,,,
+6,ice,,,,,,,99,10,4,1,35,7,0,,73,3,5,,,38,7.17E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,92,6,1,1,45,7,,,,,,,1,,61,2,3,,,36,718,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,719,,,,,
+6,ice,,,,,,,81,6,2,0,27,6,1,,59,5,5,,,42,720,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,5,1,1,26,7,1,,62,2,5,,no,42,721,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,8,3,0,45,7,,,,,,,0,,57,3,3,,No,36,722,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,91,5,2,1,30,7,1,,71,2,5,,No,38,723,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,3,0,38,7,0,,69,2,5,,,37,7.24E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,7.25E+02,,,,,
+6,ice,,,,,,,100,10,2,1,35,7,0,,52,2,5,,,37,726,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,12,2,1,40,7,1,,70,2,2,,no,40,727,Software,Male Treat,James Smith,6 years,4 years
+6,ice,87,9,2,0,34,7,,,,,,,1,,77,1,5,,,30,728,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,56,10,2,1,35,7,0,,68,2,6,,No,28,729,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,91,5,2,0,35,7,0,,61,2,5,,No,38,730,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,86,10,2,1,31,7,1,,75,2,5,,No,33,731,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,60,10,2,0,32,7,1,,47,2,6,,Thought I should mention that I guessed the ethnicity of the applicant as being white as approx 80% of people in the UK are white. It wasn't based (knowingly) on any ideas on what kinds of people are drawn to jobs in the software industry.,37,7.32E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,4,2,0,26,7,1,,49,2,6,,"I looked through the cv and went on the tone and qualifications noting some experience. In the real world I wouldn’t remember the number of years experience once I’d changed page- so please don’t screen me out as that is a memory test only, ",33,7.33E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,74,6,2,1,25,6,1,,81,1,7,,,33,734,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,80,8,2,0,45,7,,,,,,,1,,67,2,6,,No,38,735,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,5,1,0,29,7,0,,41,2,5,,no,38,736,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,35,7,1,,74,2,5,,Should have an “I do not know” option,42,737,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,45,10,2,1,30,7,0,,36,2,2,,No,37,738,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,70,10,2,1,35,7,1,,71,2,3,,No,31,739,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,7.40E+02,,,,,
+6,ice,78,16,3,1,40,6,,,,,,,1,,70,2,5,,No,28,7.41E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,79,10,2,1,32,7,,,,,,,1,,59,2,7,,No,37,742,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,8,2,0,32,7,1,,60,2,5,,No,40,743,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,9,2,1,28,7,1,,56,2,3,,No,40,744,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,10,3,0,36,7,,,,,,,0,,73,2,3,,No,43,745,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,61,10,2,1,35,7,0,,46,2,2,,,40,746,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,5,3,0,30,7,,,,,,,0,,54,2,2,,no,40,747,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,7.48E+02,,,,,
+6,ice,,,,,,,82,9,2,0,30,7,0,,39,2,5,,no,38,7.49E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,51,13,2,1,35,7,,,,,,,1,,52,2,5,,No,32,750,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+2,,,,,,,,,,,,,,,,,,,,,,751,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,752,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,753,,,,,
+6,ice,87,10,2,0,32,7,,,,,,,1,,48,2,6,,No,38,754,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,10,2,0,35,7,,,,,,,1,,51,2,3,,no,30,755,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,94,10,2,1,34,7,,,,,,,1,,56,2,5,,no,28,7.56E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,7.57E+02,,,,,
+6,ice,,,,,,,61,9,2,0,33,7,0,,69,2,6,,no,38,758,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,77,10,2,0,32,6,,,,,,,1,,48,2,2,,No,31,759,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,1,1,30,7,0,,71,3,2,,No.,37,760,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,98,10,2,0,34,7,1,,65,5,6,,No,32,761,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,81,6,4,0,30,7,1,,47,2,2,,No,37,762,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,9,2,1,33,7,,,,,,,0,,76,2,5,,No,40,763,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,31,7,,,,,,,1,,72,3,5,,,34,7.64E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,91,10,2,0,28,7,0,,74,2,7,,no,37,7.65E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,12,2,1,38,7,,,,,,,1,,66,2,5,,No,30,766,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,5,2,0,26,7,1,,77,2,3,,No,30,767,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,6,2,0,28,7,0,,77,2,5,,No,33,768,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,90,8,2,0,33,7,0,,73,2,5,,No,39,769,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,10,2,1,35,7,,,,,,,1,,72,2,6,,No,33,770,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,90,9,2,0,32,7,1,,69,2,7,,No,42,771,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,82,10,2,1,31,7,1,,61,2,5,,No,36,7.72E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,91,8,2,1,38,6,,,,,,,1,,67,2,6,,,31,7.73E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,83,10,2,0,35,8,,,,,,,1,,52,2,5,,No,26,774,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,32,8,1,,52,2,5,,No,33,775,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,81,7,2,1,28,7,1,,66,2,3,,No,39,776,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,2,1,35,7,,,,,,,1,,41,2,5,,No,36,777,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,82,10,2,1,36,7,,,,,,,1,,77,2,5,,No.,42,778,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,87,6,4,1,30,7,,,,,,,0,,76,3,5,,,38,779,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,7,2,0,36,7,,,,,,,0,,74,2,5,,no,33,7.80E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,98,10,2,1,35,7,0,,59,2,5,,No,34,7.81E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,92,6,2,1,30,7,1,,63,2,5,,No,33,782,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,90,10,2,1,31,5,,,,,,,1,,68,2,6,,no,37,783,HR,Male Treat,Samuel Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,784,,,,,
+6,ice,,,,,,,100,10,2,0,33,7,1,,67,3,5,,No,37,785,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,8,2,0,35,7,1,,81,2,4,,NO,36,786,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,71,5,2,1,25,7,,,,,,,0,,65,1,7,,No,38,787,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,77,8,3,0,30,7,0,,71,2,4,,No,37,7.88E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,92,10,3,0,48,7,,,,,,,0,,49,2,6,,No,37,7.89E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,9,2,1,30,7,1,,49,2,7,,no,37,790,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,98,7,2,0,30,7,1,,79,2,3,,,32,791,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,792,,,,,
+6,ice,98,10,2,0,33,7,,,,,,,0,,75,2,5,,"No,",38,793,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,6,3,0,28,7,0,,57,2,6,,No,40,794,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,795,,,,,
+6,ice,91,12,1,0,27,7,,,,,,,0,,76,3,5,,no,40,7.96E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,63,6,2,1,28,7,1,,51,3,5,,Never heard of MongoDb or some of the lesser coding languages on the cv,43,7.97E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,8,2,0,35,7,,,,,,,1,,68,3,6,,No,33,798,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,79,10,2,1,33,7,0,,84,3,5,,no,41,799,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,0,32,7,,,,,,,1,,67,2,5,,No,34,800,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,71,8,2,1,28,7,0,,63,3,7,,No,34,801,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,93,6,2,0,31,7,1,,76,2,5,,,42,802,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,10,1,1,33,7,0,,40,2,5,,no,38,803,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,8,2,1,30,7,,,,,,,0,,66,2,3,,,38,8.04E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,80,7,2,0,30,7,1,,75,9,6,,,34,8.05E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,10,2,0,30,7,,,,,,,1,,47,2,2,,no,43,806,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,807,,,,,
+6,ice,,,,,,,90,10,2,1,32,7,1,,48,2,5,,No,33,808,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,70,10,2,0,34,7,1,,67,5,6,,No.,37,809,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,82,9,2,1,29,7,,,,,,,0,,52,2,5,,no,37,810,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,75,7,2,0,37,7,,,,,,,1,,71,2,3,,No,30,811,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,10,2,0,30,7,1,,73,2,5,,No,40,8.12E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,10,1,1,32,7,,,,,,,1,,46,3,5,,No,28,8.13E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,70,13,3,0,35,7,0,,73,2,5,,,36,814,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,82,10,2,1,36,7,1,,59,3,6,,No,32,815,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,69,10,2,1,33,7,0,,41,2,6,,no,38,816,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,93,5,3,0,24,7,0,,77,2,5,,no,43,817,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,818,,,,,
+6,ice,,,,,,,92,10,2,1,32,7,0,,53,1,7,,,34,819,Software,Male Treat,James Smith,6 years,4 years
+6,ice,83,10,2,0,35,7,,,,,,,1,,78,1,5,,No,42,8.20E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,8.21E+02,,,,,
+6,ice,99,10,2,1,40,7,,,,,,,0,,69,2,2,,No,43,822,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,96,8,3,0,36,5,,,,,,,0,,61,2,5,,No,38,823,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,5,1,1,30,7,1,,44,2,3,,No,32,824,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,10,2,0,28,7,1,,61,2,6,,,38,825,Software,Female Treat,Jessica Smith,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,826,,,,,
+6,ice,75,10,2,0,34,7,,,,,,,0,,46,2,5,,No,34,827,HR,Female Treat,Sarah Brown,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,8.28E+02,,,,,
+6,ice,100,10,2,0,38,7,,,,,,,0,,69,2,6,,No.,37,8.29E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,4,1,40,7,1,,57,2,5,,No,43,830,Software,Male Treat,James Smith,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,831,,,,,
+6,ice,82,6,1,0,28,7,,,,,,,1,,58,2,3,,No.,42,832,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,833,,,,,
+6,ice,88,10,3,1,38,7,,,,,,,0,,67,2,5,,No,33,834,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,835,,,,,
+6,ice,,,,,,,100,10,2,1,30,7,1,,60,2,5,,No,32,8.36E+02,Software,Male Treat,James Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,8.37E+02,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,838,,,,,
+6,ice,75,10,2,1,31,7,,,,,,,1,,53,2,5,,No,39,839,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,10,1,1,34,7,1,,65,2,5,,,32,840,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,100,10,2,1,37,6,,,,,,,1,,66,2,6,,No,38,841,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,97,5,2,0,36,7,,,,,,,0,,64,1,7,,No,33,842,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,843,,,,,
+6,ice,,,,,,,88,5,4,0,29,8,0,,76,2,5,,No,43,8.44E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,80,10,2,1,26,7,0,,47,2,4,,No,37,8.45E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,846,,,,,
+6,ice,85,10,2,1,34,7,,,,,,,1,,67,2,6,,No.,33,847,HR,Male Treat,Samuel Brown,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,848,,,,,
+6,ice,,,,,,,100,10,2,0,33,7,0,,76,2,6,,No,37,849,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,70,10,2,1,35,7,,,,,,,1,,78,2,5,,,30,850,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,851,,,,,
+6,ice,71,6,1,1,35,7,,,,,,,0,,49,2,5,,,40,8.52E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,77,10,3,0,38,6,,,,,,,0,,53,1,4,,no,38,8.53E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,98,8,2,1,30,7,,,,,,,1,,55,2,6,,No,31,854,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,81,10,2,0,35,6,,,,,,,0,,76,2,6,,No,37,855,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,856,,,,,
+6,ice,,,,,,,92,8,2,1,27,8,0,,60,2,7,,No,37,857,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,0,33,7,0,,61,2,5,,No,33,858,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,100,10,2,1,35,7,,,,,,,1,,68,2,3,,No,43,859,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,99,10,2,1,40,8,1,,71,9,6,,No,45,8.60E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,80,7,2,1,27,7,0,,77,2,3,,No,34,8.61E+02,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,0,30,7,1,,72,2,5,,No,36,862,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,10,2,0,35,7,1,,77,2,6,,No,40,863,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,79,12,6,1,28,7,1,,67,2,5,,No,39,864,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,4,3,0,31,7,0,,64,3,5,,no,37,865,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,Ice,,,,,,,,,,,,,,,,,,,,,866,,,,,
+6,ice,60,5,2,0,28,7,,,,,,,0,,78,2,6,,No,32,867,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,100,10,2,0,37,7,,,,,,,1,,61,2,2,,"I apologize, but I didn't recall the person's work experience. I was concentrating on reading the resume over and checking out whether she had the correct credentials. If this results in my submission being rejected, I understand.",40,8.68E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,8.69E+02,,,,,
+6,ice,99,7,2,0,30,7,,,,,,,1,,70,2,6,,No,33,870,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,83,10,2,0,28,8,0,,77,2,4,,"It is amazing how much on a CV you do read knowing you are going to be asked questions about it, a lot of the time i do a quick read",40,871,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,85,4,1,0,32,7,,,,,,,1,,68,2,6,,No,34,872,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,91,6,2,0,32,7,0,,80,2,5,,No,40,873,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,54,8,3,1,39,7,,,,,,,1,,77,2,3,,,32,874,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,99,6,2,1,27,6,,,,,,,0,,48,2,5,,,37,875,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,81,10,2,1,38,7,,,,,,,1,,50,2,2,,No,45,8.76E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,90,10,2,0,35,7,,,,,,,1,,76,3,6,,,42,8.77E+02,HR,Female Treat,Sarah Brown,6 years,4 years
+6,Ice,,,,,,,,,,,,,,,,,,,,,878,,,,,
+6,ice,84,10,2,0,30,7,,,,,,,1,,76,2,6,,no,33,879,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,86,10,2,1,35,7,,,,,,,0,,73,2,6,,No,34,880,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,1,38,7,0,,41,2,5,,No,37,881,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,83,10,2,1,35,7,0,,66,2,5,,No,36,882,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,883,,,,,
+6,ice,,,,,,,100,10,2,0,31,7,0,,33,2,2,,No,32,8.84E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,8,2,1,33,7,0,,74,2,5,,No,36,8.85E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,886,,,,,
+6,ice,100,10,2,1,28,7,,,,,,,0,,75,3,7,,No,33,887,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,86,10,2,1,36,7,,,,,,,1,,54,2,5,,No.,42,888,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,100,10,1,1,30,7,0,,71,2,3,,No.,34,889,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,92,7,1,0,30,7,,,,,,,1,,66,3,6,,No,34,890,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,5,2,1,31,7,0,,61,2,5,,,33,891,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,10,3,0,37,7,,,,,,,1,,71,3,5,,no,40,8.92E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,91,10,2,1,33,7,,,,,,,1,,78,2,6,,no,37,8.93E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,,,,,,,70,9,2,0,28,7,1,,78,2,2,,No,33,894,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,6,2,0,35,8,0,,55,2,6,,,37,895,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,85,10,2,1,35,7,,,,,,,0,,54,2,5,,I hope Samuel gets the job :) ,31,896,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,897,,,,,
+6,ice,,,,,,,100,3,2,0,25,5,0,,80,2,5,,n/a,40,898,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,60,10,2,1,32,7,1,,55,2,6,,No,32,899,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,0,32,7,0,,56,2,5,,No,40,9.00E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+1,,,,,,,,,,,,,,,,,,,,,,9.01E+02,,,,,
+6,ice,,,,,,,77,8,2,1,32,8,1,,78,2,5,,No,43,902,Software,Male Treat,James Smith,6 years,4 years
+6,ice,74,10,2,0,32,7,,,,,,,0,,47,2,3,,No,38,903,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,1,32,7,0,,77,2,5,,No,38,904,Software,Male Treat,James Smith,6 years,4 years
+6,ice,100,12,2,0,36,7,,,,,,,0,,60,2,3,,No,37,905,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,91,110,2,0,38,8,1,,43,2,2,,No,40,906,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,80,9,2,1,29,7,1,,74,2,3,,No,32,907,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,70,10,2,0,35,7,0,,73,2,4,,,33,9.08E+02,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,91,8,3,1,30,7,,,,,,,1,,53,2,2,,No,36,9.09E+02,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,97,10,2,0,35,7,0,,74,2,5,,No,40,910,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,80,10,2,0,34,7,1,,65,2,5,,No.,31,911,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,100,10,2,1,38,7,0,,72,2,6,,No,34,912,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,80,10,2,0,31,7,0,,76,5,6,,For how many years of experience - assumed the scenario was set in 2021.,40,913,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,90,5,2,1,30,7,0,,35,2,5,,No,43,914,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,72,6,2,1,40,7,,,,,,,0,,77,2,5,,no,38,915,HR,Male Normal,Samuel Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,85,8,2,1,35,5,1,,78,2,6,,No,34,9.16E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,81,9,2,1,30,7,0,,72,8,6,,No,41,9.17E+02,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,30,0,0,1,25,7,1,,76,2,5,,No,43,918,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,86,10,2,1,37,7,,,,,,,0,,74,2,6,,No,38,919,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,90,10,2,0,30,7,,,,,,,1,,66,2,7,,No,34,920,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,90,6,2,0,30,7,,,,,,,1,,78,2,3,,No,33,921,HR,Female Treat,Sarah Brown,6 years,4 years
+6,ice,,,,,,,100,6,2,0,30,7,0,,69,2,3,,No,43,922,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,100,10,2,0,35,7,1,,66,2,3,,No,38,923,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,66,10,3,0,35,8,,,,,,,0,,69,2,5,,No,43,9.24E+02,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,88,12,3,0,34,7,0,,62,1,6,,No,33,9.25E+02,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,76,10,2,0,29,7,0,,74,2,5,,No,40,926,Software,Female Treat,Jessica Smith,6 years,4 years
+6,ice,,,,,,,80,10,2,1,36,6,0,,56,2,5,,No,37,927,Software,Male Treat,James Smith,6 years,4 years
+6,ice,,,,,,,81,10,2,0,34,7,0,,63,1,6,,No,37,928,Software,Female Normal,Jessica Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,21,3,3,1,23,7,0,,71,1,5,,,38,929,Software,Male Normal,James Smith,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+1,,,,,,,,,,,,,,,,,,,,,,930,,,,,
+6,ice,83,10,2,0,32,7,,,,,,,0,,74,2,3,,no,39,931,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,82,8,2,1,30,7,,,,,,,0,,69,2,5,,No,43,9.32E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,10,2,1,32,7,,,,,,,0,,70,2,5,,No,37,9.33E+02,HR,Male Treat,Samuel Brown,6 years,4 years
+6,ice,100,15,3,0,45,7,,,,,,,1,,70,1,6,,n/a,38,934,HR,Female Normal,Sarah Brown,Jan 2015 - Present.,Jan 2011 - Jan 2015.
+6,ice,,,,,,,75,10,2,1,31,7,1,,54,2,5,,No.,42,935,Software,Male Treat,James Smith,6 years,4 years
