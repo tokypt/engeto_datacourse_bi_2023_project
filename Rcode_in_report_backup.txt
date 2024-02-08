@@ -1,0 +1,31 @@
+if (!require("pacman")) {install.packages("pacman"); require("pacman")}
+p_load(rstudioapi, tidyverse, Rmisc, data.table, psy, psych, nlme, lme4, stargazer, lfe, varhandle, stringr, effects, ggsignif, lmerTest)
+# The following code to create a dataframe and remove duplicated rows is always executed and acts as a preamble for your script: 
+# dataset <- data.frame(experimental.condition, positive.callback)
+# dataset <- unique(dataset)
+# Paste or type your script code here:
+dataset$cond[dataset$experimental.condition==1] <- "Unexplained gap"
+dataset$cond[dataset$experimental.condition==2] <- "No gap"
+dataset$cond[dataset$experimental.condition==3] <- "Explained gap"
+dataset$cond[dataset$experimental.condition==4] <- "Years"
+table(dataset$cond)
+
+dataset$cond <- factor(dataset$cond, levels = c("Years", "No gap", "Explained gap", "Unexplained gap"))
+cbPalette <-c("#0F3D6E", "#19423F")
+sum.pos = summarySE(dataset, measurevar = "positive.callback", groupvars = c("cond"), na.rm=TRUE)
+sum.pos$treat <-ifelse(sum.pos$cond=="Years",1,0)
+ggplot(sum.pos, aes(x=cond, y=positive.callback, fill=as.factor(treat))) + 
+  geom_bar(position=position_dodge(), stat="identity") +
+  geom_errorbar(aes(ymin=positive.callback-se, ymax=positive.callback+se),
+                width=.2, size=1.1,                   # Width of the error bars
+                position=position_dodge(.9)) +
+  theme_bw() +
+ theme(panel.grid.major = element_blank(), 
+       panel.grid.minor = element_blank(),
+       axis.text.x = element_text(size=17),
+       axis.text.y = element_text(size=17),
+       axis.title = element_text(size=20)) +
+  scale_fill_manual(name = "Type", labels = c("Traditional", "Treatment"), values=cbPalette) +
+  theme(legend.title = element_text(size=14),
+        legend.text = element_text(size=12)) +
+  labs(x = "Condition", y = "Callback rate") + ylim(0,0.5)
