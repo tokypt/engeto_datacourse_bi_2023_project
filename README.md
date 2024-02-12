@@ -1,4 +1,4 @@
-Criteria for the project vere following: 
+Criteria for the project were following: 
 
 1.	Length of 2-3 pages.
 2.	Use of at least 5 different types of visuals.
